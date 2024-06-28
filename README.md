@@ -1,8 +1,7 @@
-- 👋 Olá, eu sou @AnaClaraRibeiroP
-- 👀 Tenho interesse no universo e em tudo que o constitui
-- 🌱 Atualmente estou cursando física
-- 💞️ Estou procurando colaborar em projetos de inteligência artificial
-- 📫 Como me contatar: ana.ribeiro@usp.br
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade divertida: sou vegana e amo os animais 🐾
+🌟 Profissional de dados e design apaixonada por transformar informações complexas em experiências visuais impactantes. 
 
+Experiente na criação de protótipos de painéis no Figma e no desenvolvimento de dashboards interativos no Power BI, Tableau, QuickSight e Looker. Habilidades incluem limpeza, transformação e enriquecimento de dados, análises avançadas utilizando Python e SQL, além de metodologias ágeis para garantir entregas eficientes. Possuo expertise em DAX para cálculos avançados no Power BI e no Tableau para criação de dashboards visuais. Experiência comprovada na interação com clientes para entender e documentar requisitos, além de implementar boas práticas de visualização de dados.
+
+Ao longo da minha carreira, desenvolvi painéis personalizados para diversas áreas, incluindo comercial, varejo, recursos humanos e financeiro, utilizando ferramentas de visualização de dados. Esses painéis forneceram insights valiosos para otimização de vendas, gestão de estoque, acompanhamento de indicadores de desempenho de colaboradores e análise financeira. Estou sempre em busca de novos desafios para aplicar minha paixão por dados e design. 
+
+Mas a jornada não para por aí! Como ex-aluna do PROA, levei minha paixão por tecnologia ao próximo nível, arrebatando o primeiro lugar na competição final do curso. E, enquanto meus colegas se divertem com fórmulas e equações, estou ocupada desvendando os mistérios da física na USP, onde aprendo a abordar desafios de maneira criativa e analítica.
